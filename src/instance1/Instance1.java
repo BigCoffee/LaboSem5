@@ -16,7 +16,7 @@ public class Instance1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       //LE CONFLIT PAR RAPPORT A MON MANQUE DE SOUPER//
+// ben c ben corect // 
     }
     
 }
