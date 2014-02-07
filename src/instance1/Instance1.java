@@ -16,7 +16,7 @@ public class Instance1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       //Le numero est 42//
+       //Le numero est 84, c'est sérieux!//
     }
     
 }
